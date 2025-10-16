@@ -1,4 +1,4 @@
-baseurl: '/TorkeTech/'
+baseurl: '/jekyll-serif-theme/'
 permalink: pretty
 title: 'TorkeTech'
 
@@ -51,3 +51,4 @@ exclude:
   - LICENSE
 
   - README.md
+
