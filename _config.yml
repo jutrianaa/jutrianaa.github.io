@@ -1,6 +1,6 @@
-baseurl: '/jekyll-serif-theme/'
+baseurl: '/TorkeTech/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'TorkeTech'
 
 google_analytics_id: ""
 
@@ -49,4 +49,5 @@ exclude:
   - vendor/ruby/
   - LICENSE.md
   - LICENSE
+
   - README.md
